@@ -15,7 +15,7 @@ var options =
 		username: "mulekindalan",
 		password: "oauth:e57cnpbmayu6pziuvptnd7l06pkksu",  
 	},
-	channels: ['#gaules', '#waveigl', '#luquet4', '#murilo_rt', '#jeffaocs', '#pescocofino', '#csrfps', '#mibrtv', '#marcaorx', '#johnpittertv', '#brnwowzk1', '#Vovo', '#furiatv','#stereonline', '#skipnho', '#skipnholive', '#saullo', '#mch_agg',] //ADICIONA OS CANAIS AQ COM '#NOME'
+	channels: ['#gaules', '#waveigl', '#cachorro1337c', '#murilo_rt', '#jeffaocs', '#pescocofino', '#csrfps', '#mibrtv' , '#brnwowzk1', '#Vovo', '#furiatv','#stereonline', '#skipnho', '#skipnholive', '#saullo', '#mch_agg',] //ADICIONA OS CANAIS AQ COM '#
 };
 
 var client = new tmi.client(options);
